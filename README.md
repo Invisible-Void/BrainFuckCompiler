@@ -11,7 +11,7 @@ make
 
 Compile a Brainfuck file (hello.bf sample file):
 ```
-bfc hello.bf
+./bfc hello.bf
 ```
 
 After compiling you get an 64bit assembly file named "out.asm".
